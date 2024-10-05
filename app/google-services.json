@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "473613023861",
+    "project_id": "rjecko-f0e87",
+    "storage_bucket": "rjecko-f0e87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473613023861:android:6ba8da367f9aeedfcad63c",
+        "android_client_info": {
+          "package_name": "com.example.rjecko"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": ""
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
